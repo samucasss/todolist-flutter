@@ -1,8 +1,8 @@
 # todolist_flutter
 
-Implementação do frontend da aplicação ToDoList com Flutter
+Implementação do frontend da aplicação ToDoList com Flutter. Tecnologias utilizadas: Dart, Flutter com Material components e JWT Authentication. 
 
-Aplicação ToDoList:
+## Aplicação ToDoList:
 
 O objetivo do sistema é realizar o acompanhamento de tarefas diárias. 
 
